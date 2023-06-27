@@ -1,16 +1,6 @@
 # random_quote_api
 
-A new Flutter project.
+preview :
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![quote](https://github.com/ahmdirvn/RandomQotes-API-consum-Flutter/assets/98068506/afe77ded-fb37-45f8-ba2a-3beea89dba73)
+![quote2](https://github.com/ahmdirvn/RandomQotes-API-consum-Flutter/assets/98068506/33b29159-2448-4d36-8e71-31d6841ccd32)
